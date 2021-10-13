@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="w2.c">
+    <ClCompile Include="Source.c">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
