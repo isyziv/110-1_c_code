@@ -32,6 +32,7 @@ link* ins(link* node, int in)
 				link* ntmp = new link();
 				ntmp->var = in;
 				tmp->rn = ntmp;
+				big = max(bbig, big);
 				return node;
 			}
 			else tmp = tmp->rn;
